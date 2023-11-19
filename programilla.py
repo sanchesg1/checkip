@@ -1,3 +1,7 @@
+# holaaaaaaaaa usalo tranqui, modificalo o mejoralo, es un codigo re sencillo tbh pero es para tenerlo a mano 
+
+
+
 import socket
 from ping3 import ping, verbose_ping
 
